@@ -75,10 +75,10 @@ AWS DevOps CI/CD Pipeline
 
 This application is deployed using:
 
-✔ Git & GitHub
-✔ Jenkins
-✔ Docker
-✔ Amazon EC2
+Git & GitHub
+Jenkins
+Docker
+Amazon EC2
 
 Deployment Successful
 
